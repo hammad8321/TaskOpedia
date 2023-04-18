@@ -95,3 +95,21 @@ class component
 //     );
 //   }
 // }
+
+
+<--------------------------->
+
+ git init
+
+ git add .   // add all files
+
+ git commit -m "first commit"
+
+  git branch -M  main
+
+
+ git remote add origin https://github.com/hammad8321/TaskOpedia.git
+
+
+  git push -u origin main
+
