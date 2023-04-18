@@ -97,7 +97,7 @@ class component
 // }
 
 
-<--------------------------->
+<-------------to move it fist time -------------->
 
  git init
 
@@ -113,3 +113,10 @@ class component
 
   git push -u origin main
 
+<------------------------To move to git second time ----------------->
+
+git add .
+
+git commit -m "updated Readme"
+
+git push
